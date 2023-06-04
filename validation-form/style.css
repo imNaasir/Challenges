@@ -1,0 +1,12 @@
+
+  .container {
+
+    border-style: solid;
+  
+    border-width: 3px;
+  
+    border-image: linear-gradient( #d0b6eb,  #efb5d6) 1;
+
+    border-radius: 10px;
+  
+  }
