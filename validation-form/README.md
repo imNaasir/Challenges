@@ -22,7 +22,10 @@ To show our code using Tailwind css you can use class attribute. example.
 
 
   -Running the code we get the following output
+  
+  
 ![image the output of the program](./screenshoots/output.PNG)
+
 
  *Picture3: useful output
 
